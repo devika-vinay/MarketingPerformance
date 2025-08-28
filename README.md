@@ -1,4 +1,4 @@
-# 📊 Marketing Performance Analytics – Final Exam  
+# 📊 Marketing Performance Analytics
 
 This project analyzed a large-scale **marketing dataset** to evaluate ad performance across devices, networks, and business KPIs. The work combined **trend analysis, segmentation, and KPI evaluation** to generate insights and recommendations for optimizing campaign strategy.  
 
